@@ -9,3 +9,8 @@ To use the archetype,
   ${EDITOR:=nano} properties.yaml
   # Initialize the template
   ./init.rb
+
+## Reference
+
+ - [Frank Documentation](https://github.com/blahed/frank/)
+ - [Tilt (template formats supported by Frank)](https://github.com/rtomayko/tilt)
